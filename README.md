@@ -7,7 +7,7 @@ Maker Media GmbH
 
 ### Dieser Rasensprenger lässt sich kinderleicht bedienen und programmieren. Mit dem Controller einer Playstation 3 steuert man den 360-Grad-Bewässerungswinkel, die Höhe und den Wasserzulauf. Außerdem kann sich der ESP32, der den Rasensprenger steuert, ein Bewässerungsmuster merken und beliebig oft abspielen.
 
-In diesem Repository findet ihr die Sketches und 3D-Druckdaten zu dem Artikel aus der Make 2/23.
+In diesem Repository findet ihr die Firmware und 3D-Druckdaten zu dem Artikel aus der Make 2/23.
 
 ![Picture](https://github.com/MakeMagazinDE/Rasensprenger/blob/main/rasensprenger_github.png)
 
