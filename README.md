@@ -9,6 +9,6 @@ Maker Media GmbH
 
 In diesem Repository findet ihr die Sketches und 3D-Druckdaten zu dem Artikel aus der Make 2/23.
 
-![Picture](https://github.com/MakeMagazinDE/adafruitGFX/blob/main/adafruit_gfx_banner.png)
+![Picture](https://github.com/MakeMagazinDE/Rasensprenger/blob/main/rasensprenger_github.png)
 
 
